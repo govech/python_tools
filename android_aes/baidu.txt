@@ -1,0 +1,27 @@
+全民小说_小说_iOS	com.qmxsppa.novelreader	36346278	QbSGZOQe9Stj33tNHGGI6jin	hD1WhGXh85pY08zFdboHBkscsvaSK1GP	9ad69a21-76bf58ba-1e64-017e-c5bc6-01
+新疯狂阅读（疯狂看书）_小说_Android	com.ravingbooks.novelsandroid	36347212	y3T9E1wEnR7MXQYxY9aitG6v	3p4gAVBKg9bT2hr5PPGTMe7YilOcDAAY	7956aaf8-5cf5799b-1e65-0162-c5bc7-01
+天天读书（天天阅读）_小说_Android	com.ttfreereading.everydayds	36348660	6Zfa3QehEgPvoKpK9lGInNtO	VBX7pNApKUvqFBtlqCIr38CfK194VP9Q	9b46ab00-804ab5cf-1e66-016f-c5bc8-01
+阅读神器（阅读大师）_小说_Android	com.jdsjlzxzia.yuedushenqi	36348813	jD8LfplDk66eTTE7bUHkUkE6	hGRpKfi4G9eRNNrKxG3mefoPWuMdtkPb	81a7606f-6b1b0963-1e67-01eb-c5bc9-01
+开始阅读_小说_Android	com.startreader.novelsapp	36348819	eWGj0a1AlOLzkVlVeKFdfaVX	LaUEl4nm1vjtSB4tlFIbHZV0ARgb8a7o	9b1766eb-79442764-1e68-01cd-c5bca-01
+肥猫阅读_小说_Android	com.fatcatfat.io	36349161	FBq1BnSEidAXZepWP2knTspi	6u90iIKSG1GdB970xgeiwovPtQn81x9R	7a940853-69857023-1e69-016a-c5bcb-01
+万能阅读器（开心阅读器）_小说_Android	com.wnreadwnq.io	36348829	t9i88iMyNY3nGOxA9XeAt2pO	9QF2AAyyke8aB2kZWBqewbAkzN3h2O4g	7b65ba3a-69ca5f62-1e6a-01a6-c5bcc-01
+漫客阅读器（天空阅读）_小说漫画_Android	com.mkydqreader.io	36348980	GN4zEcAlxovUW1cMVAR55hCA	bPzjsgCBxyxsGIkuPNmwZybBGNKfn86p	7dc0b67a-6178c4b8-1e6b-017b-c5bcd-01
+漫客阅读器_小说漫画_iOS	com.mkydqreader.io	36348991	aHbiyWFwponsvSeE5TMfGxmu	70Orr7UKVY9WRBIiSlPOYpIcQYgwUkYi	91e6fd81-7a13f27a-1e6c-017b-c5bce-01
+笔芯阅读_小说_iOS	com.bixin.bixinyuedu	36350283	B07yTwc3W0APLSpOLffKb1hQ	yTDq5rgYUDPaNqKifoY0P6pEG7IGfBnM	9be59210-85a8fe44-1e6d-0152-c5bcf-01
+小小追书_小说漫画_Android	com.xiaoxiaobook.zuiread	36350433	nYVZZFkusjXtvUMsP6D7fn8D	6eZPl1PqEoG8wAPs72bmHrwDN9Er49RX	97e4ae53-79efd5ef-1e6e-01ef-c5bd0-01
+全民阅读_小说_iOS	com.fourseaonreader.io	36350438	OIg089i3hDvwBk6CeMOcxLDf	M7VOuRCR8Kyn0dTooAmHfKRF5NHUgYUx	986810a9-7f1b662e-1e6f-0127-c5bd1-01
+值得阅读（疯狂阅读追书）_小说_Android	com.ruffianhankin.meritreader	28144146	27WXFwsnmKDYv2XU8OTTtBcG	keQEKOFfV9vGmQMOlK08fRNflHTmkLFa	97cfabac-87d7ba47-1e70-01dd-c5bd2-01
+值得阅读（已下架）_小说_iOS	com.ruffianhankin.meritreader	36350603	DFj5FRHYBi7UXvDlhoIQGzG0	othP8N8j6Anvo4wkQc8Q9wRvVg90nVvq	98e17eee-7bb85366-1e71-015a-c5bd3-01
+点点阅读_小说_iOS	com.baoqiang.diandian	36378947	3WTmFbwIYaZUWHc9pMSUvqGO	HWre5fy4Q5GrS3RrlQsdf73dGSc81cY9	9db2b100-7fbf0475-1e72-0140-c5bd4-01
+点点阅读_小说_Android	com.diandianbook.androidreading	36379134	t7xZkRoTwW8CRC2KrB59v2zk	GWtmdqZGpqMdtCYI3nzye9cQEvNCEDhE	95cf07c4-7994f75e-1e73-0131-c5bd5-01
+天天追书_小说漫画_Android	com.tiantianzhuishu.books	36379371	SgGvi8ux72eq1NsVtqGo8vnK	wG7FtwnW6Y7QjrGyXMIENCB3Lb7QGtji	7dd90452-6fa904b0-1e74-0118-c5bd6-01
+追书大师_小说漫画_Android	com.zhuishudashi.read	36379472	BTGPcEarFQ2rwk0mcB3iTdyE	66LPAcKohQB2kqvFh9ox89KGgx6y2PPt	9af4877a-8365648a-1e75-01fe-c5bd7-01
+快搜阅读器_小说漫画_Android	com.kuaisoureader.io	36379784	zGfQyWctuRAqjMbgiOScoW9i	KRprqDARUG8bKVV6AqihZrdhbeATYfbp	7ac79be0-6b91dae3-1e76-01ac-c5bd8-01
+快搜阅读器_小说_iOS	com.kuaisoureader.io	36379796	zVlTWuZG4nDfco5H9EvEQsfG	e7wfWtRb5RK8aWSDCMzCcvRawGgOGsYI	8314eed1-750bf632-1e77-011a-c5bd9-01
+第二阅读器_小说_Android	com.dierapp.read.app	36379810	3vI6SGCCVkt5EOW8vNakQygu	AyxOzEjnHixqtB9KBrWGm4ScZ6fadSnG	7eb77a9b-7016826c-1e78-0126-c5bda-01
+轻转阅读（笔趣阁）_小说漫画_iOS	com.qingazhuanread.com	36380578	8o9kCCgmp8RSDERa7FEiSyQ5	lx0IeYUZmiLZuEWzd2gQAvD483IToVbU	7e6e32a7-727c83d6-1e79-012a-c5bdb-01
+书香之家_小说_Android	com.shuxiangzhijia.xyz	36380599	6RUcz6xUsohR1DxlhYxtWGlY	qU1W9w0QGh8ltYsuzFlC3vdCfcHDSoDF	970912ec-785f1227-1e7a-01f0-c5bdc-01
+笔趣阁极速版_小说漫画_Android	com.kkmfxs.xsfmkkapp	36381084	15wMg2uTIlNGWy3Gm6i6vFXG	k7XW4dSqKUiHHhYlYPGArRy6NeYxKhNf	9d3cfc0e-8852e777-1e7b-0189-c5bdd-01
+笔趣阁-番薯_小说_Android	com.sweetpotato.biquge	36381400	t53smO4zheFDbQ1vcwsydtQX	0f3VuI7OThb4Nuot5tCchbnvw3g5Vuai	932eb8f9-7fc75db9-1e7c-01bf-c5bde-01
+享读_小说_ios	parabol.xiangdu.tool	36381408	7CYFvvYkQdZYSbB2VcCvFXuM	05UvNzUKHzhr6jb1UET8PjEw0aXO70Uq	91ee6d6e-729a7a95-1e7d-018b-c5bdf-01
+						
